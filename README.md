@@ -1,3 +1,5 @@
+This is a fork from ![Smogon](https://github.com/smogon/damage-calc/)
+
 # Pokémon Damage Calculator
 
 ![Test Status](https://github.com/smogon/damage-calc/workflows/Tests/badge.svg)
@@ -198,5 +200,4 @@ This package is distributed under the terms of the [MIT License][3].
   [7]: https://rollupjs.org/
   [8]: https://parceljs.org/
   [9]: https://github.com/pkmn/ps/blob/master/data
-# damage_calc
-# damage_calc
+
