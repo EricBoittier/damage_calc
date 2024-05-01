@@ -1,4 +1,4 @@
-This is a fork from ![Smogon](https://github.com/smogon/damage-calc/)
+This is a fork from [smogon/damage-calc][https://github.com/smogon/damage-calc/]
 
 # Pokémon Damage Calculator
 
